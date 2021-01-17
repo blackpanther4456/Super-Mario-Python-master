@@ -2,16 +2,7 @@
 
 ## Creator 
 
-Nirankar Nath Singh 
-
-Please Subscribe My Youtube channel 
-
-Name : Brain Flicks
-
-Link : https://www.youtube.com/nirankarnathsingh
-
-Instagram : https://www.instagram.com/bnirankar
-## Running
+Pragyan Sahoo 
 
 * $ pip install -r requirements.txt
 * $ python main.py
